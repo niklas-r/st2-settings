@@ -1,0 +1,29 @@
+ {
+ // Icon? (dot|circle|bookmark|quote|curly_bracket|round_bracket|square_bracket|angle_bracket|none)
+    "quote_icon" : "dot",
+    "curly_icon" : "dot",
+    "round_icon" : "dot",
+    "square_icon": "dot",
+    "angle_icon" : "dot",
+    "tag_icon"   : "dot",
+
+    // Scope? (Defined in theme files.)
+    // Examples: (keyword|string|number)
+    "quote_scope" : "bracket.highlight",
+    "curly_scope" : "bracket.highlight",
+    "round_scope" : "bracket.highlight",
+    "square_scope": "bracket.highlight",
+    "angle_scope" : "bracket.highlight",
+    "tag_scope"   : "bracket.highlight",
+
+    // Outline? (solid|outline|underline|none)
+    "quote_style" : "underline",
+    "curly_style" : "underline",
+    "round_style" : "underline",
+    "square_style": "underline",
+    "angle_style" : "underline",
+    "tag_style"   : "underline",
+
+    //Enable bracket matching on type
+    "quote_enable" : false
+}

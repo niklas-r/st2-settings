@@ -1,0 +1,43 @@
+[
+    {
+        "args": {
+            "panel": "console",
+            "toggle": true
+        },
+        "command": "show_panel",
+        "keys": [
+            "super+alt+c"
+        ]
+    },
+    {
+        "args": {
+            "block": false
+        },
+        "command": "toggle_comment",
+        "keys": [
+            "super+shift+c"
+        ]
+    },
+    {
+        "args": {
+            "block": true
+        },
+        "command": "toggle_comment",
+        "keys": [
+            "super+control+c"
+        ]
+    },
+    { 
+        "command": "toggle_side_bar",
+        "keys": [
+            "control+s"
+        ]
+    },
+    { 
+        "keys": ["ctrl+shift+r"], 
+        "command": "reindent" , 
+        "args": {
+            "single_line": false
+        }
+    }
+]

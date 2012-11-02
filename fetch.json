@@ -1,0 +1,20 @@
+{
+	"files":
+	{
+		"backbone.js": "http://backbonejs.org/backbone.js",
+		"backbone.js_min": "http://backbonejs.org/backbone-min.js",
+		"jquery": "http://code.jquery.com/jquery.js",
+		"jquery_min": "http://code.jquery.com/jquery.min.js",
+		"normalize_css": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"require.js": "https://raw.github.com/jrburke/requirejs/master/require.js",
+		"underscore.js": "http://underscorejs.org/underscore.js",
+		"underscore.js_min": "http://underscorejs.org/underscore-min.js"
+	},
+	"packages":
+	{
+		"bones_theme": "https://github.com/eddiemachado/bones/zipball/master",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"nivo_slider": "http://dev7studios.com/downloads/49",
+		"wordpress": "http://wordpress.org/latest.zip"
+	}
+}
